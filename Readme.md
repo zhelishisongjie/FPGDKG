@@ -19,7 +19,7 @@ FPGDKG is a comprehensive knowledge graph that integrates facial phenotypes, gen
 
 <div align="center">
 
-![Graphical Abstract](./figures/graphical_abstract.jpg)  
+![Graphical Abstract](./figures/graphical_abstract.png)  
 *Figure 1. Graphical abstract of this study.*
 
 ![Knowledge Graph Example](./figures/KG.jpg)  
